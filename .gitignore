@@ -8,12 +8,13 @@
 /Analyzer
 /FileSync
 /Project/Users
-#.gitignore
-.svn
+/.gitignore
+/.svn
 **/Thumbs.db
 
 #################################################################################
 # Add items to be ignored below                                                 #
 #################################################################################
 
-
+#.gitignore
+.svn
